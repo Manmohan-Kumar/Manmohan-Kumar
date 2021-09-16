@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Manmohan-Kumar
-- 👀 I’m interested in learning new Technologies, and creating performance optimized features
+- 👀 I’m interested in learning new Technologies, and creating performance optimized features which help in making life of others easier.
 - 🌱 I’m currently learning Azure Cloud based technologies
 - 💞️ I’m looking to collaborate on writing Azure Functions, js code, performance optimizations etc or create new products
 - 📫 How to reach me 
